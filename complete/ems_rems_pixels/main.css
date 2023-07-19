@@ -1,0 +1,46 @@
+section {
+    border: 2px solid #333;
+    border-radius: 2px;
+    margin-bottom: 1.5em;
+}
+
+/*html {
+    font-size: 10px; 
+}*/
+
+/*rem*/
+
+.rem p {
+    font-size: 2rem; 
+    border: 1px solid red; 
+    padding: 1em; 
+}
+
+.rem h2 {
+    font-size: 4rem; 
+}
+
+/* em */
+
+.em {
+    font-size: 50px; 
+}
+
+.em p {
+    font-size: 2em; 
+}
+
+.em2 {
+    font-size: 25px; 
+}
+
+.em2 p {
+    font-size: 2em;
+}
+
+/*pixels*/
+
+.pixel p {
+    letter-spacing: 2px; 
+}
+
